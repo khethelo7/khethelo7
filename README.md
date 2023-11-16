@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khethelo7&label=Profile%20views&color=0e75b6&style=flat" alt="khethelo7" /> </p>
 
-- 🔭 I’m currently working on [My Website Portfolio](github.com/khethelo7/Personal-Portfolio-1)
+- 🔭 I’m currently working on [My Website Portfolio]([github.com/khethelo7/website-portfio))
 
 - 🌱 I’m currently learning **Thymeleaf and Back End JavaScript**
 
