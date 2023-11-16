@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**khethelo7/khethelo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Software Engineering student @ <a href="www.wethinkcode.co.za">WeThinkCode_</a>, where I always tackle solving problems in dynamic ways with tech.
+<a href="www.wethinkcode.co.za">WeThinkCode_</a> is one of the most valued tech schools in Africa and it empowers and drives the youth for a better future with tech.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
