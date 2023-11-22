@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **project ideas to boost my exposure**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khethelo7](https://github.com/khethelo7/tab?=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/khethelo7/)
 
 - 💬 Ask me about **APIs, Git and Java**
 
